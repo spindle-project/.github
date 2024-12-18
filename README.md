@@ -2,7 +2,7 @@
 <h1><b>The Spindle Project</b></h1> <p style="font-size:14px">  <b> Programming language that enables you to practice AP CSP Exam code as real, live code.  </b> 
 </b></b> <br> ⭐ Star our language and website, it motivates us a lot!</div> <br>
 
-# 💻 Spindle: Your Path to Coding Mastery
+# 💻 Spindle: The Path to AP CSP Mastery
 > *Spindle is a programming language designed specifically for students familiar with the AP Computer Science Principles (CSP) curriculum. It bridges the gap between theoretical knowledge and practical application, allowing you to write real, working code based on the concepts they learned in the exam*
 >  *Spindle can be ran nativily on the destop by downloading it, or can be ran on it's website!*
 
