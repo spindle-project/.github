@@ -13,7 +13,7 @@
 4. **Open-Source Collaboration**: Encourage contributions from the open-source community to enhance the platform.
 
 # 🧑‍⚖️ Legal Stuff
-The Spindle programming language, website, logo and brand are all licensed under the MIT license -That means it's free for you to use in relation to Spindle. If you have more questions, please read the LICENCE file and ask us!
+The Spindle programming language, website, logo and brand are all licensed under the Mozilla Public License 2.0 license. You fully own all programs made with Spindle. If you have more questions, please read the LICENCE file and ask us!
 
 # 🤲 Let's Spindle Together!
 
